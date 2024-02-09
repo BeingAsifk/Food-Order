@@ -32,7 +32,7 @@ function About() {
           <h3>Our Promise 🤝</h3>
           <p>
             We promise to provide you with an unforgettable dining experience.
-           . We can’t wait to welcome you to our Indian Food
+            We can’t wait to welcome you to our Indian Food
             Restaurant! Namaste 🙏
           </p>
         </p>
