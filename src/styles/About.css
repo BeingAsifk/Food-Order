@@ -35,14 +35,3 @@
   justify-content: center;
   transform: translateY(-40px);
 }
-
-.about .aboutBottom h3 {
-  font-weight: 200;
-  font-size: 35px;
-  color: black;
-  height: 20px;
-  display: flex;
-  justify-content: center;
-
-  transform: translateY(-20px);
-}
